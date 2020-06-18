@@ -1,0 +1,17 @@
+Week 5
+
+Opgave 1d
+- Het gaat bij allen over een public interface.
+
+Opgave 1e
+- hibernate_sequence
+- student
+- student_telefoon
+- studie
+- telefoon
+
+Opgave 2a
+- Een student kan meerdere telefoons hebben.
+
+Opgave 2b
+-
